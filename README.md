@@ -1,2 +1,4 @@
-# Amazon-Sales-PowerBI-Dashboard
-Power BI Dashboard analyzing Amazon Sales data with business insights and visualization.
+📊 Amazon Sales Analysis Dashboard (Power BI)
+📌 Project Overview
+
+This project analyzes Amazon sales data to extract actionable business insights using Power BI.
